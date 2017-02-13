@@ -14,8 +14,7 @@ V.)VALUE:    The costs of compute, storage, and connectivity resources are plung
 2.Explain the possible solutions to handle Big data.   
     There are two posssible solutions :
     i.Scale up: where this is not a recommended one which the data storage exceeds the limit the storage device capacity can be added   
-    up as well it a costly,time consuming and a complex process.
-    
+    up.as well it a costly,time consuming and a complex process.
     ii.Scale up: where here economica machines can be added up instead of adding  the data storage through devices. many number of  
     computers can be added together to share the data's.and this is the better method than scale up.which is economical as well work is  
     distributed among different machines.
